@@ -6,3 +6,19 @@ Libraries used -:
   <li>bs4</li>
   <li>colorama</li>
 </ul>
+
+# Installation
+<ol>
+  <li>git clone https://github.com/venomSec-dev/The-LocalHost-Times</li>
+  <li>cd The-LocalHost-Times</li>
+  <li>pip3 install -r requirements.txt</li>
+</ol>
+
+# Run
+<ul>
+  <li>python3 venom.py</li>
+</ul>
+
+<br>
+<br>
+Follow me on insta - <a href='https://instagram.com/i.m.gauravchaudhary'>i.m.gauravchaudhary</a>
